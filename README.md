@@ -4,12 +4,12 @@
 
 
  OUTLINE:
-          -Introduction and Objectives of the project
-          -Business Problem
-          -Data Understanding
-          -Methods
-          -Findings
-          -Recommendations
+          -Introduction and Objectives of the project\
+          -Business Problem\
+          -Data Understanding\
+          -Methods\
+          -Findings\
+          -Recommendations\
 
 
 
@@ -176,6 +176,7 @@ C.
    - For GROSS:   Invest heavily in June/May.
    - For PROFIT:  Go Targeted in October/November.
    - For SAFETY:  Early release in April
+
 
 
 
