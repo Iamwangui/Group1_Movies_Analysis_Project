@@ -3,7 +3,7 @@
  *18th DECEMBER 2025*
 
 
- **OUTLINE:**
+ **OUTLINE:**\
           -Introduction and Objectives of the project\
           -Business Problem\
           -Data Understanding\
@@ -67,7 +67,7 @@ These datasets will be merged to create a unified view of each movie’s genre, 
 
 **FINDINGS:**
 
-A./
+A.\
 
 * Action-Adventure-Thriller leads profitability: This combination tops the list with $911M average profit among movies rated >=7, driven by broad appeal and potential.
   
@@ -78,7 +78,7 @@ A./
 * Sci-Fi boosts profits: Combinations like Action-Adventure-Sci-Fi (approximately $630M) and Adventure-Drama-Sci-Fi (approximately $524M) show speculative elements enhance financial returns when paired with strong narratives.
   
 
-B./
+B.\
 
 *PROFIT MARTIN VS AUDIENCE RATING*
 
@@ -97,7 +97,7 @@ Action, Documentary, Drama leads with an average rating of 8.7, followed by Crim
 These genres are not the most profitable, but they are deeply appreciated by viewers(High ratings).
 
 
-C./
+C.\
 
  TOP 3 MONTHS FOR AVERAGE REVENUE:
   • Jun: $123.3M average revenue | 213% ROI/
@@ -131,7 +131,7 @@ C./
 
 **RECOMMENDATIONS:**
 
-A./
+A.\
 
 * Prioritize Action-Adventure-Thriller projects: Focus research, development and marketing resources in order to maximize returns on high-rated films./
 * Increase investment in Family-Fantasy-Musicals: Develop more animated and musicals with fantasy themes to capture family audiences./
@@ -139,7 +139,7 @@ A./
 * Strategically integrate Sci-Fi: Adding visual effects elements to Action or Drama-Adventure films while managing budgets for stronger commercial outcomes.
 
 
-B./
+B.\
 
 Therefore;
 
@@ -152,7 +152,7 @@ The company will determine whether the primary business objective is for commerc
 
 
 
-C./
+C.\
 
 *1. MAXIMUM GROSS REVENUE*
    • PRIME WINDOW: May & June (Summer Peak)
@@ -188,6 +188,7 @@ C./
    - For GROSS:   Invest heavily in June/May.
    - For PROFIT:  Go Targeted in October/November.
    - For SAFETY:  Early release in April
+
 
 
 
