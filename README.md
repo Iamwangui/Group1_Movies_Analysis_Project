@@ -80,21 +80,12 @@ A.
 
 B.
 
-*PROFIT MARTIN VS AUDIENCE RATING*
-
-From the table, there are movies that are well received e.g 8.5 ratings that had high profit margin. Although some with low ratings like 6.1 rating get high profit margin despite there weak reception.This shows that finanacial success does not align with what audience love or highly rate.
-
-
-*GENRE VS MOST PROFITABLE*
-
-Genres like (Action, Sci-Fi) and (Adventure,Animation, Comedy) drive the highest profits. Horror stands out as a cost-effective genre,since it has low budget and generates high revenue hence a high Profit margin despite the ratings.
-
-
-*GENRE VS AUDIENCE RATINGS*
-
-The top-rated genres are Documentary-based especially those with Drama, Crime, History, and Sport.
-Action, Documentary, Drama leads with an average rating of 8.7, followed by Crime, Documentary at 8.25.
-These genres are not the most profitable, but they are deeply appreciated by viewers(High ratings).
+Genres with the highest average ratings and lowest production buddgets:/
+- Crime,Documentary; Rating 8.25, Budget 1,500,000/
+- Crime,Documentary,History; Rating 8.2, Budget 3,000,000./
+- Documentary,Drama,History; Rating 8.1, Budget 1,700,000./
+- Adventure,Drama,Mystery; Rating 7.9, Budget 500,000./
+- Documentary,Sport; Rating 7.7, Budget 362,500./
 
 
 C.
@@ -143,12 +134,8 @@ B.
 
 Therefore;
 
-The most profitable genres are Action,adventure,Sci-Fi yet the are not rated as the top on the list.
-
-Documentary genres receive high ratings suggesting real world content matter to the audience.
-
-The company will determine whether the primary business objective is for commercial success or audience rating.This decision will guide the choice of genre and where to invest.
-
+In the event of budget constraints, the company can instead pivot to genres like Documentary, History, Crime, War, Mystery and Drama. These genres have minimal production costs, and get very high ratings on an average.
+This would help the company build an audience, gain exposure and compete for market share, all without having to spend beyond its ability.
 
 
 
@@ -188,6 +175,7 @@ C.
    - For GROSS:   Invest heavily in June/May.
    - For PROFIT:  Go Targeted in October/November.
    - For SAFETY:  Early release in April
+
 
 
 
