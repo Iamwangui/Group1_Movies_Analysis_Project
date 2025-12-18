@@ -4,7 +4,7 @@
 
 
  OUTLINE:
-          -Introduction and Objectives of the project.
+          -Introduction and Objectives of the project
           -Business Problem
           -Data Understanding
           -Methods
@@ -64,15 +64,32 @@ These datasets will be merged to create a unified view of each movie’s genre, 
 
 FINDINGS:
 
-1.
+A.
 * Action-Adventure-Thriller leads profitability: This combination tops the list with $911M average profit among movies rated >=7, driven by broad appeal and potential.
 * Family-Fantasy-Musical ranks second: Achieves $844M average profit, highlighting the strong commercial success of uplifting, family-friendly content with musical elements.
 * Adventure dominates top performers: Appears in 8 of the top 10 genre combinations, serving as a key driver of high profits through escapism and excitement.
 * Sci-Fi boosts profits: Combinations like Action-Adventure-Sci-Fi (approximately $630M) and Adventure-Drama-Sci-Fi (approximately $524M) show speculative elements enhance financial returns when paired with strong narratives.
 
-2.
+B.
 
-3.
+PROFIT MARTIN VS AUDIENCE RATING
+
+From the table, there are movies that are well received e.g 8.5 ratings that had high profit margin. Although some with low ratings like 6.1 rating get high profit margin despite there weak reception.This shows that finanacial success does not align with what audience love or highly rate.
+
+
+GENRE VS MOST PROFITABLE
+
+Genres like (Action, Sci-Fi) and (Adventure,Animation, Comedy) drive the highest profits. Horror stands out as a cost-effective genre,since it has low budget and generates high revenue hence a high Profit margin despite the ratings.
+
+
+GENRE VS AUDIENCE RATINGS
+
+The top-rated genres are Documentary-based especially those with Drama, Crime, History, and Sport.
+Action, Documentary, Drama leads with an average rating of 8.7, followed by Crime, Documentary at 8.25.
+These genres are not the most profitable, but they are deeply appreciated by viewers(High ratings).
+
+
+C.
  TOP 3 MONTHS FOR AVERAGE REVENUE:
   • Jun: $123.3M average revenue | 213% ROI
   • Nov: $109.7M average revenue | 401% ROI
@@ -99,18 +116,32 @@ FINDINGS:
   • Best month for big budgets: Apr ($618.4M average revenue)
 
 
+
+
+
+
 RECOMMENDATIONS:
 
-1.
+A.
 * Prioritize Action-Adventure-Thriller projects: Focus research, development and marketing resources in order to maximize returns on high-rated films.
 * Increase investment in Family-Fantasy-Musicals: Develop more animated and musicals with fantasy themes to capture family audiences.
 * Build films around Adventure cores: Combine Adventure with Family, Sci-Fi, or Fantasy elements to broaden appeal and boost profitability.
 * Strategically integrate Sci-Fi: Adding visual effects elements to Action or Drama-Adventure films while managing budgets for stronger commercial outcomes.
 
-2.
+
+B.
+Therefore;
+
+The most profitable genres are Action,adventure,Sci-Fi yet the are not rated as the top on the list.
+
+Documentary genres receive high ratings suggesting real world content matter to the audience.
+
+The company will determine whether the primary business objective is for commercial success or audience rating.This decision will guide the choice of genre and where to invest.
 
 
-3.
+
+
+C.
 1. MAXIMUM GROSS REVENUE
    • PRIME WINDOW: May & June (Summer Peak)
      - June leads with $123.3M average revenue per film.
@@ -145,5 +176,6 @@ RECOMMENDATIONS:
    - For GROSS:   Invest heavily in June/May.
    - For PROFIT:  Go Targeted in October/November.
    - For SAFETY:  Early release in April
+
 
 
