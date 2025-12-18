@@ -80,12 +80,12 @@ A.
 
 B.
 
-Genres with the highest average ratings and lowest production buddgets:/
-- Crime,Documentary; Rating 8.25, Budget 1,500,000/
-- Crime,Documentary,History; Rating 8.2, Budget 3,000,000./
-- Documentary,Drama,History; Rating 8.1, Budget 1,700,000./
-- Adventure,Drama,Mystery; Rating 7.9, Budget 500,000./
-- Documentary,Sport; Rating 7.7, Budget 362,500./
+Genres with the highest average ratings and lowest production buddgets:
+- Crime,Documentary; Rating 8.25, Budget 1,500,000
+- Crime,Documentary,History; Rating 8.2, Budget 3,000,000.
+- Documentary,Drama,History; Rating 8.1, Budget 1,700,000.
+- Adventure,Drama,Mystery; Rating 7.9, Budget 500,000.
+- Documentary,Sport; Rating 7.7, Budget 362,500.
 
 
 C.
@@ -175,6 +175,7 @@ C.
    - For GROSS:   Invest heavily in June/May.
    - For PROFIT:  Go Targeted in October/November.
    - For SAFETY:  Early release in April
+
 
 
 
