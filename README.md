@@ -1,4 +1,5 @@
  GROUP 1
+ 
  18th DECEMBER 2025
 
 
@@ -12,13 +13,15 @@
 
 
 
-          INTRODUCTION AND OBJECTIVES OF THE PROJECT
+INTRODUCTION AND OBJECTIVES OF THE PROJECT:
+
 Using data from IMDB and Movie Budget Datasets, we set out to provide insights on movie 
 genres, production budgets, and release-times of various movies.
 The goal is to guide the launch of a new movie studio for our company.
 
 
-                       BUSINESS PROBLEM
+BUSINESS PROBLEM:
+
 The company’s management wants to enter the movie production industry but lacks experience in identifying what types of films are most likely to succeed.
 
 This analysis aims to support management by answering the following key business questions:
@@ -30,7 +33,8 @@ This analysis aims to support management by answering the following key business
   3. Does the timing of a movie’s release impact its box office performance?
 
 
-                        DATA UNDERSTANDING
+DATA UNDERSTANDING:
+
 The analysis uses 2 datasets (IMDB Database and Movie Budgets dataset)that provide complementary information about movies:
 
 The IMDB Database contains:
@@ -44,7 +48,8 @@ The Movie Budgets Dataset: Provides production budgets and the revenue figures.
 These datasets will be merged to create a unified view of each movie’s genre, financial performance, audience reception, and release timing.     
 
 
-                            METHODS
+ METHODS:
+ 
 ~ Loading data : We used pandas and sqlite3 to access and manipulate our datasets.
 ~ Data Cleaning : - Removal of null values and duplicates,if any.
                   - Stripping away non-numeric symbols like $ and commas.
@@ -57,7 +62,8 @@ These datasets will be merged to create a unified view of each movie’s genre, 
              We then used matplotlib and sns to offer an overview of these aggregations using plots.
 
 
-                            FINDINGS
+FINDINGS:
+
 1.
 * Action-Adventure-Thriller leads profitability: This combination tops the list with $911M average profit among movies rated >=7, driven by broad appeal and potential.
 * Family-Fantasy-Musical ranks second: Achieves $844M average profit, highlighting the strong commercial success of uplifting, family-friendly content with musical elements.
@@ -93,7 +99,8 @@ These datasets will be merged to create a unified view of each movie’s genre, 
   • Best month for big budgets: Apr ($618.4M average revenue)
 
 
-                             RECOMMENDATIONS
+RECOMMENDATIONS:
+
 1.
 * Prioritize Action-Adventure-Thriller projects: Focus research, development and marketing resources in order to maximize returns on high-rated films.
 * Increase investment in Family-Fantasy-Musicals: Develop more animated and musicals with fantasy themes to capture family audiences.
@@ -138,4 +145,5 @@ These datasets will be merged to create a unified view of each movie’s genre, 
    - For GROSS:   Invest heavily in June/May.
    - For PROFIT:  Go Targeted in October/November.
    - For SAFETY:  Early release in April
+
 
